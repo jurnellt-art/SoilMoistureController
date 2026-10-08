@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anthurium Soil Controller</string>
+    <string name="app_full_title">Soil Moisture Controller For Potted Anthurium with IoT</string>
+</resources>
