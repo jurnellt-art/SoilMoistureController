@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439145601429",
+    "project_id": "soil-moisture-controller",
+    "storage_bucket": "soil-moisture-controller.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439145601429:android:6c0e4c1f2bd3cd530c3e9c",
+        "android_client_info": {
+          "package_name": "com.anthurium.soilcontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm16UvIQphY2jZTPhTYJm3Fecsi2GZPEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
